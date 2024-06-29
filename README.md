@@ -27,13 +27,11 @@ Innovative and results-driven professional with experience leading the design, d
 
  </div>
 
-<br/>
-
 <div align="left">
     <h2 align="left">💻 Skills 💻</h2>
-        <h3>- 📕 Technical: Network Security, Incident Response, Vulnerability Assessment, Secure Software Development, Backend Development</h3>
-        <h3>- 📗 Soft Skills: Project Management, Effective Communication, Leadership, Time Management</h3>
-        <h3>- 📙 Additional Tools: SIEM, IAM, Cloud Security, Digital Forensics, Data Privacy, Penetration Testing, Risk Management</h3>
+        <h4>- 📕 Technical: Network Security, Incident Response, Vulnerability Assessment, Secure Software Development, Backend Development</h4>
+        <h4>- 📗 Soft Skills: Project Management, Effective Communication, Leadership, Time Management</h4>
+        <h4>- 📙 Additional Tools: SIEM, IAM, Cloud Security, Digital Forensics, Data Privacy, Penetration Testing, Risk Management</h4>
 </div>
 
 ## 📊 Github Stats 📊
