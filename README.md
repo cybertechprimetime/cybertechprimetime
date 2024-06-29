@@ -37,4 +37,3 @@ Innovative and results-driven professional with experience leading the design, d
 ## 📊 Github Stats 📊
 
 ![Phillip Bonton, III's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybertechprimetime&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybertechprimetime&show_icons=true&theme=radical)
