@@ -20,15 +20,7 @@ Today, I continue to build on my instructional design foundation by creating AI 
 The unique blend of instructional design, AI/ML, and cybersecurity gives me the ability to approach challenges from multiple angles. I remain driven by my passion for using technology to protect data, enhance security protocols, and deliver results that keep organizations ahead of evolving threats.
 
 <div align="left">
- 
- 🔭 I’m currently working on **Secure Backend Systems**
- 
- 🌱 I’m currently learning more about **Advanced Cybersecurity Techniques**
-
-💬 Ask me about Cybersecurity**
-
-📧 Reach me at: philthe3rd@gmail.com
-
+  
 ## 🌟 Core Competencies / Key Skills / Areas of Expertise 🌟
 
 - 🤖 **AI/ML Model Development**
