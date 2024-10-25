@@ -21,8 +21,6 @@ The unique blend of instructional design, AI/ML, and cybersecurity gives me the 
 
 <br>
 
-<br> 
-
 <div align="left">
  
  🔭 I’m currently working on **Secure Backend Systems**
