@@ -19,8 +19,6 @@ Today, I continue to build on my instructional design foundation by creating AI 
 
 The unique blend of instructional design, AI/ML, and cybersecurity gives me the ability to approach challenges from multiple angles. I remain driven by my passion for using technology to protect data, enhance security protocols, and deliver results that keep organizations ahead of evolving threats.
 
-<br>
-
 <div align="left">
  
  🔭 I’m currently working on **Secure Backend Systems**
