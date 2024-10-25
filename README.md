@@ -25,6 +25,33 @@ Innovative and results-driven professional with experience leading the design, d
 
 📧 Reach me at: philthe3rd@gmail.com
 
+## 🌟 Core Competencies / Key Skills / Areas of Expertise 🌟
+
+- 🤖 **AI/ML Model Development**
+- 👁️ **Computer Vision & Image Processing**
+- 🎛️ **Hyperparameter Tuning & Optimization**
+- 🧩 **Model Architecture Customization** (GANs, Autoencoders)
+- 🌐 **Generative AI Concepts & Applications**
+- 🗣️ **Natural Language Processing (NLP) & Large Language Models (LLMs)**
+- 🚀 **Model Deployment & Inference**
+- 🔄 **CI/CD for ML Workflows**
+- ⚖️ **Ethical Security Practices & Compliance**
+- 🕵️ **Threat Detection & Threat Management**
+- ☁️ **Cloud-based ML Solutions (AWS, GCP)**
+- 🔑 **Cryptography & Cyber Forensics**
+- 🔒 **Data Security & Access Control**
+- 🔥 **Network Security & Firewall Configuration**
+- 🛡️ **Generative AI for Security Applications**
+- 🏛️ **Governance & Policy Development**
+- 🔧 **Disaster Recovery Planning & Security Management**
+- 🛡️ **Information Security Management & Security Policies**
+- ⚙️ **Embedded Platform Deployment**
+- 🦠 **Malware Identification & Security Awareness**
+- 📚 **Instructional Design**
+- 📱 **Mobile Device Security & Security Configuration**
+- 🧑‍💻 **Digital Learning Tools**
+- ☁️ **Cloud-based Model Deployment**
+
  </div>
 
 <div align="left">
