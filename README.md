@@ -11,7 +11,15 @@
 </div>
 
 <br> 
-Innovative and results-driven professional with experience leading the design, development, and delivery of secure and efficient backend systems. Well-versed in cybersecurity principles, backend architecture, project management, and applying the latest industry standards. Passionate about leveraging technology and innovation to enhance security and drive organizational growth. <br>
+My professional journey began in Instructional Design, where I honed my ability to break down complex concepts and translate them into clear, engaging training programs. Early in my career, I developed compliance trainings on Data Privacy & Protection and Information Security. This role opened my eyes to the growing need for robust solutions in the cybersecurity space. I became deeply interested in how technology could be leveraged not only to educate but also to secure vast sensitive information and networks and mitigate risks in real time.
+
+As I delved deeper into instructional design, I saw how machine learning could enhance not only educational platforms but also drive significant advancements in cybersecurity. The desire to explore these technologies pushed me to expand my skill set, obtaining certifications in AWS AI Practitioner, AWS Machine Learning Engineer, AWS Cloud Practitioner, and CompTIA Security+. These certifications became the gateway to my transition into AI and ML.
+
+Today, I continue to build on my instructional design foundation by creating AI models that detect and prevent security threats. This transition wasn’t just about switching fields but about evolving my passion for education into a new realm—one where technology and machine learning play a pivotal role in solving real-world security challenges. My work integrates data privacy, cloud-based solutions, and the latest AI techniques to build secure, scalable systems that safeguard organizations.
+
+The unique blend of instructional design, AI/ML, and cybersecurity gives me the ability to approach challenges from multiple angles. I remain driven by my passion for using technology to protect data, enhance security protocols, and deliver results that keep organizations ahead of evolving threats.
+
+D <br>
 
 <br> 
 
