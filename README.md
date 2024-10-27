@@ -19,6 +19,65 @@ Today, I continue to build on my instructional design foundation by creating AI 
 
 The unique blend of instructional design, AI/ML, and cybersecurity gives me the ability to approach challenges from multiple angles. I remain driven by my passion for using technology to protect data, enhance security protocols, and deliver results that keep organizations ahead of evolving threats.
 
+## Programming Languages 💻
+- 🐍 **Python**
+- 🦾 **C++**
+- ☕ **Java**
+
+### ML Frameworks & Libraries 🧠
+- 🔥 **PyTorch**
+- ⚡ **TensorFlow**
+- 🧩 **TensorRT**
+
+### Computer Vision 👁️
+- 📸 **OpenCV**
+
+### Cloud Platforms ☁️
+- ☁️ **AWS** (SageMaker, Glue, Kinesis)
+- 🌐 **GCP**
+
+### Model Architectures 🏗️
+- 🧠 **CNNs**
+- 🔄 **RNNs**
+- 🌀 **GANs**
+- 🧬 **Autoencoders**
+
+### NLP & Large Language Models 📖
+- 🔄 **Transformers**
+- 🧠 **BERT**
+- 💬 **GPT**
+
+### Data Processing & Analysis 📊
+- 🔄 **AWS Glue**
+- 🌊 **Kinesis**
+- 🧑‍🔬 **SageMaker Data Wrangler**
+
+### Model Deployment & Optimization 🚀
+- 📈 **SageMaker Endpoints**
+- 📊 **Auto-Scaling**
+- 🔍 **Edge Computing & Systems Optimization**
+
+### CI/CD for ML Pipelines 🛠️
+- 🔄 **AWS CodePipeline**
+- 🔧 **CodeBuild**
+- 🚀 **SageMaker Pipelines**
+
+### Monitoring & Performance 🖥️
+- 📈 **SageMaker Model Monitor**
+
+### Software & Tools 🛠️
+- 📝 **Microsoft Office**
+- 💻 **Adobe Connect**
+- 📹 **WebEx**
+- 👫 **MS Teams**
+- 🎨 **Adobe Creative Suite** (After Effects, Illustrator, InDesign, Photoshop)
+- 🎬 **Vyond**
+- 📸 **SnagIt**
+- 📚 **LMS (Learning Management Systems)**
+
+---
+
+
 <div align="left">
   
 ## 🌟 Core Competencies / Key Skills / Areas of Expertise 🌟
