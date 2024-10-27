@@ -19,7 +19,7 @@ Today, I continue to build on my instructional design foundation by creating AI 
 
 The unique blend of instructional design, AI/ML, and cybersecurity gives me the ability to approach challenges from multiple angles. I remain driven by my passion for using technology to protect data, enhance security protocols, and deliver results that keep organizations ahead of evolving threats.
 
-# Skills
+## 🚀 Skills
 🌐 **Programming Languages**: Python, C++, Java  
 🔍 **ML Frameworks**: PyTorch, TensorFlow, TensorRT  
 📷 **Computer Vision**: OpenCV  
@@ -34,7 +34,7 @@ The unique blend of instructional design, AI/ML, and cybersecurity gives me the 
 
 <div align="left">
   
-## 🌟 Core Competencies / Key Skills / Areas of Expertise 🌟
+## 🌟 Core Competencies / Key Skills / Areas of Expertise 
 
 - 🤖 **AI/ML Model Development**
 - 👁️ **Computer Vision & Image Processing**
@@ -63,12 +63,7 @@ The unique blend of instructional design, AI/ML, and cybersecurity gives me the 
 
  </div>
 
-<div align="left">
-    <h2 align="left">💻 Skills 💻</h2>
-        <h4>- 📕 Technical: Network Security, Incident Response, Vulnerability Assessment, Secure Software Development, Backend Development</h4>
-        <h4>- 📗 Soft Skills: Project Management, Effective Communication, Leadership, Time Management</h4>
-        <h4>- 📙 Additional Tools: SIEM, IAM, Cloud Security, Digital Forensics, Data Privacy, Penetration Testing, Risk Management</h4>
-</div>
+
 
 ## 📊 Github Stats 📊
 
