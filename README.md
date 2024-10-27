@@ -20,17 +20,17 @@ Today, I continue to build on my instructional design foundation by creating AI 
 The unique blend of instructional design, AI/ML, and cybersecurity gives me the ability to approach challenges from multiple angles. I remain driven by my passion for using technology to protect data, enhance security protocols, and deliver results that keep organizations ahead of evolving threats.
 
 ## 🚀 Skills
-🌐 **Programming Languages**: Python, C++, Java  
-🔍 **ML Frameworks**: PyTorch, TensorFlow, TensorRT  
-📷 **Computer Vision**: OpenCV  
-☁️ **Cloud Platforms**: AWS (SageMaker, Glue, Kinesis), GCP  
-🧩 **Model Architectures**: CNNs, RNNs, GANs, Autoencoders  
-📚 **NLP & LLMs**: Transformers, BERT, GPT  
-🔄 **Data Processing**: AWS Glue, Kinesis, SageMaker Data Wrangler  
-🚀 **Model Deployment**: SageMaker Endpoints, Auto-Scaling, Edge Computing and Systems Optimization  
-🔧 **CI/CD**: AWS CodePipeline, CodeBuild, SageMaker Pipelines  
-📈 **Monitoring**: SageMaker Model Monitor  
-💻 **Software & Tools**: Microsoft Office, Adobe Connect, WebEx, MS Teams, Articulate Storyline, Articulate Rise, Adobe Creative Suite (After Effects, Illustrator, InDesign, Photoshop), Vyond, SnagIt, and LMS  
+- 🌐 **Programming Languages**: Python, C++, Java  
+- 🔍 **ML Frameworks**: PyTorch, TensorFlow, TensorRT  
+- 📷 **Computer Vision**: OpenCV  
+- ☁️ **Cloud Platforms**: AWS (SageMaker, Glue, Kinesis), GCP  
+- 🧩 **Model Architectures**: CNNs, RNNs, GANs, Autoencoders  
+- 📚 **NLP & LLMs**: Transformers, BERT, GPT  
+- 🔄 **Data Processing**: AWS Glue, Kinesis, SageMaker Data Wrangler  
+- 🚀 **Model Deployment**: SageMaker Endpoints, Auto-Scaling, Edge Computing and Systems Optimization  
+- 🔧 **CI/CD**: AWS CodePipeline, CodeBuild, SageMaker Pipelines  
+- 📈 **Monitoring**: SageMaker Model Monitor  
+- 💻 **Software & Tools**: Microsoft Office, Adobe Connect, WebEx, MS Teams, Articulate Storyline, Articulate Rise, Adobe Creative Suite (After Effects, Illustrator, InDesign, Photoshop), Vyond, SnagIt, and LMS  
 
 <div align="left">
   
