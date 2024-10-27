@@ -63,6 +63,15 @@ The unique blend of instructional design, AI/ML, and cybersecurity gives me the 
 
  </div>
 
+## 📜 Certifications
+
+- 🔐 **CompTIA Security+**
+
+- 🤖 **Certified Machine Learning Engineer** — Amazon Web Services  
+
+- 🧠 **Certified AI Practitioner** — Amazon Web Services  
+
+- ☁️ **Certified Cloud Practitioner** — Amazon Web Services  
 
 
 ## 📊 Github Stats 📊
